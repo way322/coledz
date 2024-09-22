@@ -6,13 +6,7 @@ export function App() {
   
     return (
       <>
-        <button onClick={() => setText(el => el + 1)}>qqqq</button>
-        <p>{text}</p>
-        <p>{text}</p>
-        <p>{text}</p>
-        <p>{text}</p>
-        <p>{text}</p>
-        <p>{text}</p>
+
       </>
     )
   }
